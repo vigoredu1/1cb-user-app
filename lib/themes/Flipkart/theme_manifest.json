@@ -1,0 +1,7 @@
+{
+  "serverKeys": ["flipkart"],
+  "mainImport": "package:one_click_builder/themes/Flipkart/Main/main.dart",
+  "mainClass": "FlipkartMain",
+  "vendorImport": "package:one_click_builder/themes/Flipkart/FlipkartVendorId/vendorid.dart",
+  "vendorController": "FlipkartVendorController"
+}

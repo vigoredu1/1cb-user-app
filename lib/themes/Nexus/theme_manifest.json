@@ -1,0 +1,7 @@
+{
+  "serverKeys": ["nexus"],
+  "mainImport": "package:one_click_builder/themes/Nexus/Main/main.dart",
+  "mainClass": "NexusMain",
+  "vendorImport": "package:one_click_builder/themes/Nexus/NexusVendorId/vendorid.dart",
+  "vendorController": "NexusVendorController"
+}

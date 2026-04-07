@@ -1,0 +1,7 @@
+{
+  "serverKeys": ["amazon", "amazone", "amz"],
+  "mainImport": "package:one_click_builder/themes/Amazon/Main/main.dart",
+  "mainClass": "AmzMain",
+  "vendorImport": "package:one_click_builder/themes/Amazon/AmzVendorId/vendorid.dart",
+  "vendorController": "AmzVendorController"
+}
